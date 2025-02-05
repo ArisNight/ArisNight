@@ -21,3 +21,7 @@
 [![Telegram](https://shields.microej.com/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arissgw)
 [![Discord](https://shields.microej.com/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/Fxn4Gv7rY6)
 [![Vkontakte](https://shields.microej.com/badge/Vkontakte-090909?style=for-the-badge&logo=VK)](https://vk.com/aris.night)
+
+## My statistic
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArisNight&theme=radical)
