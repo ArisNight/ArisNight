@@ -1,6 +1,6 @@
 [![Header](https://github.com/ArisNight/ArisNight/blob/main/assets/header.png)](https://www.youtube.com/@arisnightt)
 
-About Me
+## I'm a begginer YouTuber, streamer, and Java/Python developer.
 
 Latest Realises
 
