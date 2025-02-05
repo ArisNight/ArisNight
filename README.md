@@ -4,6 +4,8 @@
 
 Latest Realises
 
-Languages and Tools
+## Languages and Tools
+
+![Java](https://shields.microej.com/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=yellow)
 
 Follow Me
