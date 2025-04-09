@@ -1,27 +1,40 @@
-[![Header](https://github.com/ArisNight/ArisNight/blob/main/assets/header.png)](https://www.youtube.com/@arisnightt)
+# Привет! 👋
 
-## I'm a begginer YouTuber, streamer, and Java/Python developer.
+## 🌟 О себе
+Меня зовут **Арис**, и я увлечён программированием!  
+Вот немного о моих навыках и интересах:
 
-## Latest Releases
+- 💻 **Языки программирования:**  
+  - **Java** — мой основной инструмент для разработки.  
+  - **Python** — создаю ботов для Discord и Telegram.  
 
-- ### [Status-paper](https://github.com/ArisNight/StatusPaper/releases/tag/Status-paper-1.0.0)
-- ### [StatusSMP](https://github.com/ArisNight/StatusMod/releases/tag/1.21-1.3)
-- ### [RPCommands](https://github.com/ArisNight/RPCommands/releases/tag/1.21)
+- 🌐 **Веб-разработка:**  
+  - Средний уровень владения **HTML** и **CSS**.  
 
-## Languages and Tools
+- 🛠️ **Базы данных:**  
+  - Работаю с **MySQL** и **SQLite3** на среднем уровне.
 
-![Java](https://shields.microej.com/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=orange)
-![Python](https://shields.microej.com/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=blue)
-![JSON](https://shields.microej.com/badge/JSON-090909?style=for-the-badge&logo=Json&logoColor=gray)
-![SQL](https://shields.microej.com/badge/MySQL-090909?style=for-the-badge&logo=MYSQL&logoColor=blue)
+## 🚀 Чем я занимаюсь
+- Разрабатываю полезных ботов, которые упрощают жизнь в мессенджерах.  
+- Постоянно изучаю новые технологии, чтобы становиться лучше в своём деле.
 
-## Follow Me
+## 📈 Статистика GitHub
+![Статистика](https://github-readme-stats.vercel.app/api?username=ArisNight&show_icons=true&theme=radical)
 
-[![YouTube](https://shields.microej.com/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@arisnightt)
-[![Telegram](https://shields.microej.com/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arissgw)
-[![Discord](https://shields.microej.com/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/Fxn4Gv7rY6)
-[![Vkontakte](https://shields.microej.com/badge/Vkontakte-090909?style=for-the-badge&logo=VK)](https://vk.com/aris.night)
+## 🛠️ Инструменты и технологии
+- **IDE:** IntelliJ IDEA, VS Code  
+- **Контроль версий:** Git, GitHub  
 
-## My statistic
+## 📫 Как со мной связаться
+- [GitHub](https://github.com/ArisNight)  
+- [Telegram](https://t.me/arissgw)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArisNight&theme=radical)
+---
+
+## 🌟 Закреплённые репозитории
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=ArisNight&repo=SuggestionBot&theme=radical)](https://github.com/ArisNight/SuggestionBot)
+
+---
+
+Спасибо, что заглянули на мой профиль! 😊  
+Не стесняйтесь оставлять звёздочки ⭐️ на моих репозиториях или задавать вопросы.
