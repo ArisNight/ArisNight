@@ -42,6 +42,7 @@
 ## 🌟 Закреплённые репозитории
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=ArisNight&repo=SuggestionBot&theme=radical)](https://github.com/ArisNight/SuggestionBot)
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=ArisNight&repo=DiscordWLBot&theme=radical)](https://github.com/ArisNight/DiscordWLBot)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=ArisNight&repo=StellarSave&theme=radical)](https://github.com/ArisNight/StellarSave)
 
 ---
 
